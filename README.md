@@ -18,5 +18,11 @@ Essa minha aplicação está rodando nas portas 5001 (https) e 5000 (http)
 ```C#
 ngrok http 5001
 ```
+  em alguns casos dá erro e é preciso rodá-lo com o seguninte comando:
+```C#
+ngrok http https://localhost:5001
+```
 - Feito isso, você vai ter a url que poderá ser usada mais tarde para a integração com o bot
 ![2](https://user-images.githubusercontent.com/27977219/106951754-ef7bc080-670e-11eb-8bfc-bbab1b0bb6de.png)
+
+    Uma dica pra vocês: para copiar o link use o enter! o ctrl + c vai desligar o ngrok :/

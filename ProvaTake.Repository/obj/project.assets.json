@@ -1,0 +1,194 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Octokit/0.48.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Octokit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Octokit.dll": {}
+        }
+      },
+      "Octokit.Reactive/0.47.0": {
+        "type": "package",
+        "dependencies": {
+          "Octokit": "0.47.0",
+          "System.Reactive": "4.4.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Octokit.Reactive.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Octokit.Reactive.dll": {}
+        }
+      },
+      "System.Reactive/4.4.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/_._": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.0/System.Reactive.targets": {}
+        }
+      },
+      "ProvaTake.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProvaTake.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProvaTake.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Octokit/0.48.0": {
+      "sha512": "WitpE+15EL9+vwxPg92O3uTfMJsAdN+wTZfU3dgr7KPItAfoWgsoLudzfEisHHKAROTJsPi/9mV9yGTA34hYAQ==",
+      "type": "package",
+      "path": "octokit/0.48.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net46/Octokit.dll",
+        "lib/net46/Octokit.xml",
+        "lib/netstandard2.0/Octokit.dll",
+        "lib/netstandard2.0/Octokit.xml",
+        "octokit.0.48.0.nupkg.sha512",
+        "octokit.nuspec",
+        "octokit.png"
+      ]
+    },
+    "Octokit.Reactive/0.47.0": {
+      "sha512": "Lg7v2aWnwjlweZwKaXD35m0leKzPHeUFADug/msDaF+f505mAJVaYlUUmXBzX4m74HLKHjektdeTvo+BSNpApA==",
+      "type": "package",
+      "path": "octokit.reactive/0.47.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net46/Octokit.Reactive.dll",
+        "lib/net46/Octokit.Reactive.xml",
+        "lib/netstandard2.0/Octokit.Reactive.dll",
+        "lib/netstandard2.0/Octokit.Reactive.xml",
+        "octokit.png",
+        "octokit.reactive.0.47.0.nupkg.sha512",
+        "octokit.reactive.nuspec"
+      ]
+    },
+    "System.Reactive/4.4.1": {
+      "sha512": "iSTPeWR9HJhGoNV4WhVlvofuiTjpok1i4E3LPgMdbMqf3jKhFlT9HAlO32lb52NLppWC/4dZQFfUzTytvyXBmw==",
+      "type": "package",
+      "path": "system.reactive/4.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/netcoreapp3.0/System.Reactive.dll",
+        "build/netcoreapp3.0/System.Reactive.targets",
+        "build/netcoreapp3.0/System.Reactive.xml",
+        "buildTransitive/netcoreapp3.0/System.Reactive.targets",
+        "lib/net46/System.Reactive.dll",
+        "lib/net46/System.Reactive.xml",
+        "lib/netcoreapp3.0/_._",
+        "lib/netstandard2.0/System.Reactive.dll",
+        "lib/netstandard2.0/System.Reactive.xml",
+        "lib/uap10.0.16299/System.Reactive.dll",
+        "lib/uap10.0.16299/System.Reactive.pri",
+        "lib/uap10.0.16299/System.Reactive.xml",
+        "lib/uap10.0/System.Reactive.dll",
+        "lib/uap10.0/System.Reactive.pri",
+        "lib/uap10.0/System.Reactive.xml",
+        "system.reactive.4.4.1.nupkg.sha512",
+        "system.reactive.nuspec"
+      ]
+    },
+    "ProvaTake.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProvaTake.Domain/ProvaTake.Domain.csproj",
+      "msbuildProject": "../ProvaTake.Domain/ProvaTake.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Octokit >= 0.48.0",
+      "Octokit.Reactive >= 0.47.0",
+      "ProvaTake.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\clari\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\clari\\Documents\\GitHub\\TesteTake\\ProvaTake.Repository\\ProvaTake.Repository.csproj",
+      "projectName": "ProvaTake.Repository",
+      "projectPath": "C:\\Users\\clari\\Documents\\GitHub\\TesteTake\\ProvaTake.Repository\\ProvaTake.Repository.csproj",
+      "packagesPath": "C:\\Users\\clari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\clari\\Documents\\GitHub\\TesteTake\\ProvaTake.Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\clari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\clari\\Documents\\GitHub\\TesteTake\\ProvaTake.Domain\\ProvaTake.Domain.csproj": {
+              "projectPath": "C:\\Users\\clari\\Documents\\GitHub\\TesteTake\\ProvaTake.Domain\\ProvaTake.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Octokit": {
+            "target": "Package",
+            "version": "[0.48.0, )"
+          },
+          "Octokit.Reactive": {
+            "target": "Package",
+            "version": "[0.47.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

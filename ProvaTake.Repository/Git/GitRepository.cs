@@ -21,7 +21,7 @@ namespace ProvaTake.Repository.Git
         public async Task<Repositorio> Top5ProjetosGitTakeAsync()
         {
             const string LINGUAGEM = "C#";
-            const string TIPO_DOCUMENTO = "application / vnd.lime.document - select + json";
+            const string TIPO_DOCUMENTO = "application/vnd.lime.document-select+json";
             const string TIPO_HEADER = "application/vnd.lime.media-link+json";
             const string TIPO_IMAGEM = "image/jpeg";
 

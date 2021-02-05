@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+F77I6Rlkd3zXEuEArOCUR2xth4llJcK7VsoR9+wR2iFIwQb4BwZ2dlP1/hg6KUuxd42wmNgx07xoPhK+y+ghg==",
+  "dgSpecHash": "7QtmdkHIK0ooOvqmhUPtrQOOPvh21TTiw1JEoUECKB9i6O0BLk/XGX/HE2uEEaNWxrlb2dKn46OohK1M0W6LtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\clari\\Documents\\GitHub\\TesteTake\\ProvaTake.Repository\\ProvaTake.Repository.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\clari\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\clari\\.nuget\\packages\\octokit\\0.48.0\\octokit.0.48.0.nupkg.sha512",
     "C:\\Users\\clari\\.nuget\\packages\\octokit.reactive\\0.47.0\\octokit.reactive.0.47.0.nupkg.sha512",
     "C:\\Users\\clari\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512"

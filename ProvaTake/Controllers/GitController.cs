@@ -17,9 +17,12 @@ namespace ProvaTake.Controllers
         {
             _gitRepository = gitRepository;            
         }
-
+        /// <summary>
+        /// Método que retorna os 5 primeiros repositórios do GitHub da Take
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
-        public async Task<RespostaRepositorios> GetAsync()
+        public async Task<Repositorio> GetRepositoriosAsync()
         {
             return await _gitRepository.Top5ProjetosGitTakeAsync();
         }

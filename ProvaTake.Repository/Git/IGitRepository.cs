@@ -6,7 +6,7 @@ namespace ProvaTake.Repository.Git
 {
     public interface IGitRepository
     {
-        Task<RespostaRepositorios> Top5ProjetosGitTakeAsync();
+        Task<Repositorio> Top5ProjetosGitTakeAsync();
 
     }
 }

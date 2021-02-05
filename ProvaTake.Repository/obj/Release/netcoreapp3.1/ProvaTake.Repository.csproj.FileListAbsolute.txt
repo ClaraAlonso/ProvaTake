@@ -1,0 +1,14 @@
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\bin\Release\netcoreapp3.1\ProvaTake.Repository.deps.json
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\bin\Release\netcoreapp3.1\ProvaTake.Repository.dll
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\bin\Release\netcoreapp3.1\ProvaTake.Repository.pdb
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\bin\Release\netcoreapp3.1\ProvaTake.Domain.dll
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\bin\Release\netcoreapp3.1\System.Reactive.dll
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\bin\Release\netcoreapp3.1\ProvaTake.Domain.pdb
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\bin\Release\netcoreapp3.1\System.Reactive.xml
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\obj\Release\netcoreapp3.1\ProvaTake.Repository.csprojAssemblyReference.cache
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\obj\Release\netcoreapp3.1\ProvaTake.Repository.AssemblyInfoInputs.cache
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\obj\Release\netcoreapp3.1\ProvaTake.Repository.AssemblyInfo.cs
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\obj\Release\netcoreapp3.1\ProvaTake.Repository.csproj.CoreCompileInputs.cache
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\obj\Release\netcoreapp3.1\ProvaTake.Repository.csproj.CopyComplete
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\obj\Release\netcoreapp3.1\ProvaTake.Repository.dll
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake.Repository\obj\Release\netcoreapp3.1\ProvaTake.Repository.pdb

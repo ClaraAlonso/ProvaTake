@@ -35,9 +35,9 @@ C:\ProvaTake\bin\Debug\net5.0\ProvaTake.Repository.pdb
 C:\ProvaTake\bin\Debug\net5.0\System.Reactive.xml
 C:\ProvaTake\bin\Debug\net5.0\ProvaTake.Domain.dll
 C:\ProvaTake\bin\Debug\net5.0\ProvaTake.Domain.pdb
-C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ProvaTake.exe
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\appsettings.json
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ProvaTake.exe
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\Octokit.dll
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\Octokit.Reactive.dll
@@ -50,6 +50,7 @@ C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\System.Reac
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ProvaTake.Domain.pdb
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ProvaTake.Repository.pdb
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\System.Reactive.xml
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ProvaTake.csprojAssemblyReference.cache
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ProvaTake.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ProvaTake.AssemblyInfoInputs.cache
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ProvaTake.AssemblyInfo.cs
@@ -64,7 +65,6 @@ C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ProvaTake.c
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ProvaTake.dll
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ref\ProvaTake.dll
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ProvaTake.pdb
-C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ProvaTake.csprojAssemblyReference.cache
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ProvaTake.deps.json
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ProvaTake.runtimeconfig.json
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ProvaTake.runtimeconfig.dev.json
@@ -72,3 +72,4 @@ C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ProvaTake.d
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ref\ProvaTake.dll
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\ProvaTake.pdb
 C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\obj\Debug\net5.0\ProvaTake.genruntimeconfig.cache
+C:\Users\clari\Documents\GitHub\TesteTake\ProvaTake\bin\Debug\net5.0\Newtonsoft.Json.dll
